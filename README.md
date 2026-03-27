@@ -3,7 +3,7 @@
 **Student Name:** Muhammad Ahmad  
 **Roll Number:** 23L-2511  
 **Section:** BDS-6A  
-**Course:** Artificial Intelligence (CS)  
+**Course:** Artificial Intelligence (DS)  
 **Date:** March 31, 2026
 
 ---
